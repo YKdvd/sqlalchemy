@@ -11,7 +11,7 @@
     :name: MySQL-Python
     :dbapi: mysqldb
     :connectstring: mysql+mysqldb://<user>:<password>@<host>[:<port>]/<dbname>
-    :url: http://sourceforge.net/projects/mysql-python
+    :url: http://https://github.com/farcepest/MySQLdb1
 
 
 Unicode

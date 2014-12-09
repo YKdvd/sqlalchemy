@@ -12,7 +12,7 @@
     :dbapi: pymysql
     :connectstring: mysql+pymysql://<username>:<password>@<host>/<dbname>\
 [?<options>]
-    :url: http://code.google.com/p/pymysql/
+    :url: https://github.com/PyMySQL/PyMySQL
 
 MySQL-Python Compatibility
 --------------------------
